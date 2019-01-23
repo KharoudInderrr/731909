@@ -12,16 +12,18 @@ namespace _731909
         {
             int sum = 0;
             int i = 0;
-            while ( i<6 )
+            while ( i<5 )
             {
                
-                i++;
+                
+               
                 sum += i;
+                i++;
                 
             }
             Console.WriteLine(sum);
             Console.ReadLine();
-            //kharoud2222212
+            
         }
     }
 }
