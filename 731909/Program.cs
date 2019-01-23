@@ -11,10 +11,13 @@ namespace _731909
         static void Main(string[] args)
         {
             int sum = 0;
-            for(int i = 0; i<5;)
+            int i = 0;
+            while ( i<6 )
             {
+               
                 i++;
                 sum += i;
+                
             }
             Console.WriteLine(sum);
             Console.ReadLine();
