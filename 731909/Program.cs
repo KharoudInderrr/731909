@@ -18,6 +18,7 @@ namespace _731909
             }
             Console.WriteLine(sum);
             Console.ReadLine();
+            //kharoud2222212
         }
     }
 }
